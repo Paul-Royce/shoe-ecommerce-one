@@ -78,7 +78,7 @@ function App() {
           />
         <div class="attribution">
           Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-          Coded by <a href="#">Paul</a>.
+          Coded by <a href="https://github.com/Paul-Royce">Paul</a>.
         </div>
         </main>
       </UserContext.Provider >
