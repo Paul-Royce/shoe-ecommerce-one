@@ -12,7 +12,7 @@ const Cart = ({shoeTitle, price})=> {
             <hr></hr>
             {propValues.cartItems ? <div className="summary-cont">
                 <div className="description-summary">
-                    <img src={pictureOne} className="cart-item-img" />
+                    <img src={pictureOne} alt="" className="cart-item-img" />
                     <div className="calclulations">
                         <h4 className="cart-shoe-title">{shoeTitle}</h4>
                         <p className="light-font">${price}.00 x {propValues.cartItems} <span className="tot-price">${price * propValues.cartItems}.00</span></p>
