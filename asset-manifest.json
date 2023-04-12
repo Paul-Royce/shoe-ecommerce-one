@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Paul-Royce/shoe-ecommerce-one.git/static/css/main.708fe26d.css",
+    "main.js": "/Paul-Royce/shoe-ecommerce-one.git/static/js/main.a23eb404.js",
+    "index.html": "/Paul-Royce/shoe-ecommerce-one.git/index.html",
+    "main.708fe26d.css.map": "/Paul-Royce/shoe-ecommerce-one.git/static/css/main.708fe26d.css.map",
+    "main.a23eb404.js.map": "/Paul-Royce/shoe-ecommerce-one.git/static/js/main.a23eb404.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.708fe26d.css",
+    "static/js/main.a23eb404.js"
+  ]
+}
